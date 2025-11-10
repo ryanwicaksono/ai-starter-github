@@ -1,4 +1,6 @@
-import numpy as np
+import os
+import sys
+sys.path.append(os.path.abspath("src"))
 from sklearn.datasets import make_classification
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler

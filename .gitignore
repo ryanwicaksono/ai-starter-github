@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+.env
+.venv
+venv/
+.envrc
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/*_out.ipynb
+notebooks/*_out.html
+
+# OS
+.DS_Store
+Thumbs.db

@@ -32,4 +32,6 @@ If you use GitHub **Codespaces**, a dev container config is included so you can 
 - `make test` — run pytest
 - `make nb` — execute the notebook locally (requires papermill + jupyter)
 
+Trigger CI
+
 Happy building!
